@@ -1,0 +1,8 @@
+[package]
+name = "static_server"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "static_server"
+path = "src/http_server.rs"

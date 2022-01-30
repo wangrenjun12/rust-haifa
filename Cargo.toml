@@ -1,0 +1,23 @@
+[workspace]
+
+members = [
+    "00_ownership",
+    "01_std_using",
+    "02_string",
+    "03_array",
+    "04_closure",
+    "05_traits",
+    "06_iterators",
+    "07_io",
+    "08_errors",
+    "09_std_mic",
+    "10_convert",
+    "11_static_server",
+    "12_merino_sock5",
+    "13_cargo_01",
+    "13_cargo_02",
+    "14_concurrent",
+    "15_csv_challenge",
+    "16_macro",
+    "18_nom"
+]

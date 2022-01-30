@@ -1,0 +1,17 @@
+[package]
+name = "ownership"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[[bin]]
+name = "dag"
+path = "src/dag.rs"
+
+[[bin]]
+name = "dag2"
+path = "src/dag2.rs"
+
+[dependencies]
+structopt = "0.3.26"
+structopt-derive = "0.4.18"

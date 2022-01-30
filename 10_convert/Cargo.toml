@@ -1,0 +1,8 @@
+[package]
+name = "convert"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "asref_1"
+path = "src/asref_1.rs"
