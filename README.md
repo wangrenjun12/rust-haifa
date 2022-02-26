@@ -1,1 +1,1 @@
-White some rust code snippet when i am learning Rust
+write some rust code snippet when i am learning Rust
