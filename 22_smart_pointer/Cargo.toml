@@ -1,0 +1,8 @@
+[package]
+name = "sp"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "sp_1"
+path = "src/sp_1.rs"

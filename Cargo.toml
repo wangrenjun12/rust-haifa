@@ -4,7 +4,7 @@ members = [
     "00_ownership",
     "01_std_using",
     "02_string",
-    "03_array",
+    "03_array_vec_slice",
     "04_closure",
     "05_traits",
     "06_iterators",
@@ -19,5 +19,9 @@ members = [
     "14_concurrent",
     "15_csv_challenge",
     "16_macro",
-    "18_nom"
+    "18_nom",
+    "19_kv_read",
+    "20_async",
+    "21_collection",
+    "22_smart_pointer"
 ]

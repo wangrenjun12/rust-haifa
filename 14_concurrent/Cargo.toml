@@ -8,5 +8,10 @@ edition = "2021"
 name = "unsafe_seq"
 path = "src/unsafe_seq.rs"
 
-[dependencies]
+[[bin]]
+name = "async_await"
+path = "src/async_await.rs"
 
+
+[dependencies]
+futures = "0.3"
