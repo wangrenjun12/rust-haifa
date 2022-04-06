@@ -998,6 +998,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "tokio_example"
+version = "0.1.0"
+dependencies = [
+ "tokio",
+]
+
+[[package]]
 name = "traits"
 version = "0.1.0"
 

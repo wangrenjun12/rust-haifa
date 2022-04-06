@@ -14,3 +14,13 @@ path = "src/closure_size.rs"
 [[bin]]
 name = "fn_type"
 path = "src/fn_type.rs"
+
+
+[[bin]]
+name = "fn_counter"
+path = "src/fn_counter.rs"
+
+[[bin]]
+name = "simulate_closure"
+path = "src/simulate_closure.rs"
+

@@ -23,5 +23,6 @@ members = [
     "19_kv_read",
     "20_async",
     "21_collection",
-    "22_smart_pointer"
+    "22_smart_pointer",
+    "23_tokio_example"
 ]

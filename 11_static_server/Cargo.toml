@@ -6,3 +6,7 @@ edition = "2021"
 [[bin]]
 name = "static_server"
 path = "src/http_server.rs"
+
+[[bin]]
+name = "static_server_2"
+path = "src/http_server_2.rs"

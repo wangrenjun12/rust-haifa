@@ -28,6 +28,10 @@ path = "src/borrow_check.rs"
 name = "lifetime_v1"
 path = "src/lifetime_v1.rs"
 
+[[bin]]
+name = "fn_param"
+path = "src/fn_param.rs"
+
 [dependencies]
 structopt = "0.3.26"
 structopt-derive = "0.4.18"
